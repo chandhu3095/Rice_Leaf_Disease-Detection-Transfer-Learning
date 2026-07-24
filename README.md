@@ -125,6 +125,34 @@ Rice-Leaf-Disease-Detection/
 ├── requirements.txt
 └── app.py   (Future Deployment)
 ```
+---
+
+## 📁 Dataset
+
+The dataset is **not included** in this repository due to GitHub storage limitations.
+
+Download the rice leaf disease dataset and place it inside a folder named **`data`** (or update the notebook path accordingly) with the following structure:
+
+```text
+data/
+│
+├── Bacterial leaf blight/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+│
+├── Brown spot/
+│   ├── image1.jpg
+│   ├── image2.jpg
+│   └── ...
+│
+└── Leaf smut/
+    ├── image1.jpg
+    ├── image2.jpg
+    └── ...
+```
+
+> **Important:** The notebook expects all three disease folders to be inside a single `data` directory. If your dataset is stored elsewhere, update the dataset path in the notebook before running the project.
 
 ---
 
