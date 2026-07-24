@@ -178,9 +178,8 @@ Interested in:
 - Deep Learning
 - Generative AI
 
-LinkedIn: *(Add your LinkedIn profile)*
+LinkedIn: *https://linkedin.com/in/chandrasekharmangali*
 
-GitHub: *(Add your GitHub profile)*
 
 ---
 
